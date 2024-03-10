@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Konsiten membuat beberapa souce code untuk pemula
 - Membuat forum diskusi / mencari referensi diberbagai sumber untuk penyempurnaan program
+- Membuat platform
